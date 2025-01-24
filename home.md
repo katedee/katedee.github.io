@@ -12,7 +12,7 @@ Creative control over one’s story, and knowing how to make and distribute the 
 ## Why hosting your own comic is rad
 Back in the yesteryear of the internet, people felt more comfortable making and breaking things. Both in terms of websites and zines. As people and conventions have demanded more polished products, we have given over the control of being able to make things.
 
-- Take control over the things you make, and stop giving your power over to corporate overloards!
+- Take control over the things you make, and stop giving your power over to corporate overlords!
 - Help make the internet a better place by [decentralizing it](https://internethealthreport.org/v01/decentralization/).
 - YOU control the content, and are not at the whims of some stakeholders, like on [webtoons](https://womenwriteaboutcomics.com/2022/04/webtoons-unclear-censorship-policies-drive-away-canvas-creators/) or [tapas](https://www.reddit.com/r/manhwa/comments/11glxr9/the_state_of_tapas_is_so_fucking_dire/.)
 - Empower yourself by slowly picking up [some html + css](https://www.youtube.com/playlist?list=PLDyQo7g0_nsU2O7gEdh7cAgamyh0xZumZ) and editing your site through the years.
