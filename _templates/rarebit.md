@@ -4,12 +4,14 @@ title:  "Rarebit"
 date:   2016-02-22 12:10:15 -0500
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+A guide covering setting up [Rarebit](https://rarebit.neocities.org/)
+**TO DO :** write the dang thing
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+## Further reading
+[Oruguin](https://oruguin.tumblr.com/) on tumblr has put together a helpful set of posts:
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+- [Part 1](https://www.tumblr.com/oruguin/752875085457752065/small-rarebit-basics-to-start-your-webcomic-site)
+
+- [Part 2](https://www.tumblr.com/oruguin/752875136669138944/small-rarebit-basics-to-start-your-webcomic-site)
+
+- [Part 3](https://www.tumblr.com/oruguin/752875175467466752/small-rarebit-basics-to-start-your-webcomic-site)

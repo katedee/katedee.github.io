@@ -5,12 +5,14 @@ permalink: /resources/
 order: 3
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I've gathered for you here some further learning resources.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+**TO DO :** write 1-2 sentences about the videos.
+**TO DO :** create form to submit suggestions for helpful links!
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+## HTML & CSS
+- A playlist of [crash course youtube videos](thttps://www.youtube.com/playlist?list=PLUaVXpqNz4_s23CRGLuya6DBCspNlMXyy), covering mostly HTML & CSS.
+
+## Neocities
+{% include youtube-embed.html url="https://www.youtube.com/embed/7JAmKyIzUmI?si=P_yfI0aW6_Vq-zVf" %}
+
