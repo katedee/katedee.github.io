@@ -21,12 +21,17 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 bsky_username: thisiskatedee
 github_username:  katedee
-maintenance: true
+
+permalink: /:categories/:title:output_ext
 
 # Build settings
 markdown: kramdown
 plugins:
   - jekyll-feed
+
+collections:
+  templates:
+    output: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

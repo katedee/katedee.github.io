@@ -3,27 +3,6 @@ layout: default
 ---
 
 <div class="home">
-
-  {% if page.type == "post" %}
-    <h1 class="page-heading">Posts</h1>
-
-    <ul class="post-list">
-      {% for post in site.posts %}
-        <li>
-          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-          <h2>
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-          </h2>
-        </li>
-      {% endfor %}
-    </ul>
-
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-  {% else %}
-    <h1>Tutorials for a webcomic template and <a href="https://rarebit.neocities.org/">rarebit</a> setup coming soon!</h1>
-  {% endif %}
-
-  
-
+  <h1 class="post-title">Why hosting your own webcomic is important</h1>
+   {{ content }}
 </div>
