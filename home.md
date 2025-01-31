@@ -15,6 +15,7 @@ Back in the yesteryear of the internet, people felt more comfortable making and 
 - Take control over the things you make, and stop giving your power over to corporate overlords!
 - Help make the internet a better place by [decentralizing it](https://internethealthreport.org/v01/decentralization/).
 - YOU control the content, and are not at the whims of some stakeholders, like on [webtoons](https://womenwriteaboutcomics.com/2022/04/webtoons-unclear-censorship-policies-drive-away-canvas-creators/) or [tapas](https://www.reddit.com/r/manhwa/comments/11glxr9/the_state_of_tapas_is_so_fucking_dire/.)
+- You won't be blocke from promoting your own work, [like webtoons has been known to do](https://animecorner.me/webtoon-under-criticism-after-covenant-author-alleges-they-were-barred-from-promoting-their-work/).
 - Empower yourself by slowly picking up [some html + css](https://www.youtube.com/playlist?list=PLDyQo7g0_nsU2O7gEdh7cAgamyh0xZumZ) and editing your site through the years.
 - Not reliant on good will/screwed if a service goes down. Even if folks are looking to do good in offering hosting (like on ComicFury), if something should ever happen to that person and the site goes down, your SOL! If you host your comic and your host goes down, you still have a local copy of your files and just need to upload them to a new place (so you can be back up and running in a few minutes should the worst happen).
 
