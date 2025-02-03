@@ -185,6 +185,31 @@
     color: $grey-color;
 }
 
+.plan-comparison {
+    margin-bottom: 2rem;
+    border-collapse: collapse;
+
+    th {
+        &:first-of-type {
+            width: 34%;
+        }
+        &:nth-of-type(2) {
+            width: 23%;
+        }
+        &:nth-of-type(3) {
+            width: 43%;
+        }
+    }
+
+    th, td {
+        padding: 1rem 0.5rem;
+    }
+
+    tr {
+        border-bottom: 1px solid #686868;
+    }
+}
+
 
 
 /**
@@ -235,3 +260,11 @@
         }
     }
 }
+
+/**
+ * Misc (breadcrumbs, post-nav)
+ */
+
+ #breadcrumbs {
+    margin-bottom: 2rem;
+ }
