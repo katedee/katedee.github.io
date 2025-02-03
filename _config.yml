@@ -34,7 +34,7 @@ collections:
     output: true
   eleventy:
     output: true
-    permalink: /templates/eleventy/:path
+    permalink: /templates/eleventy/:title
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
