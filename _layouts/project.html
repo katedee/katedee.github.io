@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 {{ content }}
@@ -9,7 +9,7 @@ layout: default
   <ul>
     {% assign page_category = page.categories | first %}
     {% for post in site.posts %}
-      {% if post.categories contains templates %}
+      {% if post.categories contains page_category %}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <b>

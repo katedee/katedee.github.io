@@ -22,7 +22,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 bsky_username: thisiskatedee
 github_username:  katedee
 
-permalink: /:categories/:title:output_ext
+permalink: /:categories/:title
 
 # Build settings
 markdown: kramdown
@@ -32,6 +32,9 @@ plugins:
 collections:
   templates:
     output: true
+  eleventy:
+    output: true
+    permalink: /templates/eleventy/:path
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
