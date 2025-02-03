@@ -22,7 +22,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 bsky_username: thisiskatedee
 github_username:  katedee
 
-permalink: /:categories/:title
+permalink: /:categories/:title/
 
 # Build settings
 markdown: kramdown
