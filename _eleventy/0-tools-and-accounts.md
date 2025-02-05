@@ -24,6 +24,10 @@ This tool will let us “pull” down the code from the online repository, keep 
 
 [Grab the installer here!](https://github.com/apps/desktop){:target="_blank"}
 
+Connect it to your account when prompted, and then leave it on the starter screen for now, we'll come back to it later.
+
+![github desktop starter screen](/img/github-desktop-user-interface.png)
+
 ## VS Code (optional, but strongly recommended)
 [Visual Studio Code/VS Code](https://code.visualstudio.com/){:target="_blank"} is a free code editor. I mark this as optional, because ultimately you could use something like TextEdit on mac, or NotePad on windows, but VS Code is miles better because it colour-codes parts of your code. My screenshots later one will be from within VS Code so it might also be helpful for following along.
 
