@@ -3,6 +3,8 @@ layout: page
 title: 
 permalink: /
 ---
+>**NOTE: This site is very much a work-in-progress** Coding for the templates is done, and now I'm just writing endless instructions (thorough, meant for code beginners). If you happen to stumble upon this site and are interested, you can [follow me on bluesky](https://bsky.app/profile/thisiskatedee.bsky.social), or [sign up for my newsletter](https://katedee.kit.com/5f09b51f69), where I'll announce updates until this is ready.
+
 Hi everyone!
 
 My name is Kate Drwecka, I’m a cartoonist and designer based in Canada. I’ve been independently making and publishing comics for quite some time now, and I also have some basic coding skills that I’ve picked up along the way.
